@@ -1,8 +1,12 @@
 <?php
 namespace M6Web\Bundle\CassandraBundle\EventDispatcher;
 
-use Symfony\Component\EventDispatcher\Event;
+use Symfony\Contracts\EventDispatcher\Event;
 
+/*
+ * Since Symfony 4.3, Event should derive from the contract class
+ * and not the class from the EventDispatcher component.
+ */
 /**
  * Class CassandraEvent
  */
