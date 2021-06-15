@@ -1,7 +1,7 @@
 <?php
 namespace M6Web\Bundle\CassandraBundle\Tests\Units\DependencyInjection;
 
-use mageekguy\atoum\test;
+use atoum\atoum\test;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\DependencyInjection\ParameterBag\ParameterBag;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
