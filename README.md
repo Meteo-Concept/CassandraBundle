@@ -1,6 +1,6 @@
 # CassandraBundle
 
-[![Build Status](https://travis-ci.org/Meteo-Concept/CassandraBundle.svg?branch=master)](https://travis-ci.org/Meteo-Concept/CassandraBundle)
+[![Build Status](https://www.travis-ci.com/Meteo-Concept/CassandraBundle.svg?branch=master)](https://www.travis-ci.com/Meteo-Concept/CassandraBundle)
 
 The CassandraBundle provide a Cassandra client as a Symfony service.
 
