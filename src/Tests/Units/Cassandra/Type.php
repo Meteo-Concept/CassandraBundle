@@ -2,7 +2,7 @@
 namespace M6Web\Bundle\CassandraBundle\Tests\Units\Cassandra;
 
 use M6Web\Bundle\CassandraBundle\Cassandra\Type as TestedClass;
-use mageekguy\atoum\test;
+use atoum\atoum\test;
 
 class Type extends test
 {
